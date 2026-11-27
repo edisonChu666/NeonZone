@@ -2,6 +2,12 @@
 
 一款用纯 C++17 + Win32 自研渲染器开发的 2D 俯视角霓虹动作射击游戏。**零第三方依赖**，不需要 SFML / SDL2 / 引擎，不需要下载 DLL，编译后是一个独立 EXE。
 
+## 下载
+
+不想自己编译？直接下载免安装版：
+
+**[NeonZone.exe (v1.0.0)](https://github.com/edisonChu666/NeonZone-game/releases/latest)** — 静态链接，双击即玩，无需任何运行库。
+
 ## 快速开始
 
 ### 方式一：直接双击编译脚本
